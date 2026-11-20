@@ -3,7 +3,7 @@ package datastructures;
 import java.util.ArrayList;
 import model.Task;
 
-// Sorts tasks from HIGH to LOW priority using Bubble Sort (written by hand)
+// Sorts tasks from HIGH to LOW priority using Bubble Sort 
 public class TaskSorter {
 
     public ArrayList<Task> sortByPriority(ArrayList<Task> tasks) {

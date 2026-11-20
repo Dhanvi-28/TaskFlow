@@ -1,0 +1,13 @@
+[33m892959c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m docs: add project README
+[33m4daa37c[m feat: add menu and application entry point
+[33mecebc51[m feat: add TaskService for task operations
+[33m4bc1b94[m feat: add MemberService for team members
+[33m55a3e1e[m feat: add console input helper with validation
+[33m9955dd1[m feat: implement bubble sort for task priority
+[33mf2667b8[m feat: add custom not-found exceptions
+[33ma6d8b91[m feat: add Project class extending TrackableItem
+[33mb581639[m feat: add Task class extending TrackableItem
+[33m2d85059[m feat: add abstract TrackableItem base class
+[33m7bb9799[m feat: add Member model class
+[33m1090475[m feat: add Priority and TaskStatus enums
+[33m4421281[m chore: add gitignore for class files and IDE folders
