@@ -34,8 +34,6 @@ A console-based Java application for managing tasks and team members.
 
 ```text
 TaskAndProjectTracker/
-├── docs/
-│   └── COMMIT_GUIDE.md
 ├── src/
 │   └── main/
 │       └── java/
