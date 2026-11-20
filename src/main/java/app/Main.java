@@ -69,8 +69,6 @@ public class Main {
         // and Java calls the Project's version of displayDetails()
         TrackableItem projectReference = project;
         System.out.println("\nProject summary:");
-        projectReference.displayDetails();
-        System.out.println("Goodbye!");
     }
 
     // Prints the menu
